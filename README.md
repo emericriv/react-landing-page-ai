@@ -5,10 +5,9 @@
 - [https://react-landing-page-ai.vercel.app](https://react-landing-page-ai.vercel.app)
 
 ![Vercel](https://img.shields.io/badge/deploy-Vercel-black?logo=vercel)
-![License](https://img.shields.io/badge/license-MIT-green)
-![React](https://img.shields.io/badge/react-%5E18.0.0-61DAFB?logo=react)
-![TypeScript](https://img.shields.io/badge/typescript-%5E5.0.0-3178C6?logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%5E3.0.0-38B2AC?logo=tailwindcss)
+![React](https://img.shields.io/badge/react-%5E19.0.0-61DAFB?logo=react)
+![TypeScript](https://img.shields.io/badge/typescript-%5E5.7.2-3178C6?logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%5E4.1.2-38B2AC?logo=tailwindcss)
 
 ---
 
@@ -72,17 +71,17 @@ npm install
 
 **Français**
 
-\\\bash
+```bash
 npm run dev
-\\\
+```
 
 Ensuite, ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
 
 **English**
 
-\\\bash
+```bash
 npm run dev
-\\\
+```
 
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
@@ -107,15 +106,3 @@ Les contributions sont les bienvenues. N'hésitez pas à ouvrir une _pull reques
 **English**
 
 Contributions are welcome. Feel free to open a _pull request_ to suggest improvements.
-
----
-
-## 📄 Licence / License
-
-**Français**
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
-
-**English**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
