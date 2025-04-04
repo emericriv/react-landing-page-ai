@@ -1,54 +1,121 @@
-# React + TypeScript + Vite
+# React Landing Page AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 Live Demo
 
-Currently, two official plugins are available:
+- [https://react-landing-page-ai.vercel.app](https://react-landing-page-ai.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Vercel](https://img.shields.io/badge/deploy-Vercel-black?logo=vercel)
+![License](https://img.shields.io/badge/license-MIT-green)
+![React](https://img.shields.io/badge/react-%5E18.0.0-61DAFB?logo=react)
+![TypeScript](https://img.shields.io/badge/typescript-%5E5.0.0-3178C6?logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%5E3.0.0-38B2AC?logo=tailwindcss)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 📝 Description
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+**Français**
+
+Ce projet est une landing page développée avec **React**, **TypeScript**, **Vite** et **Tailwind CSS**, déployée sur Vercel. L’objectif est de fournir une base moderne, performante et responsive pour créer des interfaces UI/UX attractives.
+
+**English**
+
+This project is a landing page built using **React**, **TypeScript**, **Vite**, and **Tailwind CSS**, deployed on Vercel. The goal is to provide a modern, performant, and responsive base to build attractive UI/UX interfaces.
+
+---
+
+## ✨ Fonctionnalités / Features
+
+- **Français**
+
+  - Architecture moderne avec React + Vite
+  - Stylisation avec Tailwind CSS
+  - Support de TypeScript
+  - Linting avec ESLint
+  - Déploiement sur Vercel
+
+- **English**
+  - Modern architecture with React + Vite
+  - Styling with Tailwind CSS
+  - TypeScript support
+  - Linting with ESLint
+  - Deployed on Vercel
+
+---
+
+## 🚀 Prérequis / Prerequisites
+
+- Node.js >= 14.x
+- npm ou yarn
+
+---
+
+## ⚙️ Installation
+
+**Français**
+
+```bash
+git clone https://github.com/emericriv/react-landing-page-ai.git
+cd react-landing-page-ai
+npm install
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+**English**
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
+```bash
+git clone https://github.com/emericriv/react-landing-page-ai.git
+cd react-landing-page-ai
+npm install
 ```
+
+## 🧪 Utilisation / Usage
+
+**Français**
+
+\\\bash
+npm run dev
+\\\
+
+Ensuite, ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
+
+**English**
+
+\\\bash
+npm run dev
+\\\
+
+Then open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 🛠️ Technologies utilisées / Technologies Used
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- ESLint
+
+---
+
+## 🤝 Contribution
+
+**Français**
+
+Les contributions sont les bienvenues. N'hésitez pas à ouvrir une _pull request_ pour proposer vos améliorations.
+
+**English**
+
+Contributions are welcome. Feel free to open a _pull request_ to suggest improvements.
+
+---
+
+## 📄 Licence / License
+
+**Français**
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
+
+**English**
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
