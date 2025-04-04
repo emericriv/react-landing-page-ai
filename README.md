@@ -5,9 +5,9 @@
 - [https://react-landing-page-ai.vercel.app](https://react-landing-page-ai.vercel.app)
 
 ![Vercel](https://img.shields.io/badge/deploy-Vercel-black?logo=vercel)
-![React](https://img.shields.io/badge/react-E19.0.0-61DAFB?logo=react)
-![TypeScript](https://img.shields.io/badge/typescript-E5.7.2-3178C6?logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-E4.1.2-38B2AC?logo=tailwindcss)
+![React](https://img.shields.io/badge/react-19.0.0-61DAFB?logo=react)
+![TypeScript](https://img.shields.io/badge/typescript-5.7.2-3178C6?logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-4.1.2-38B2AC?logo=tailwindcss)
 
 ---
 
