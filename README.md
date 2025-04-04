@@ -17,9 +17,15 @@
 
 Ce projet est une landing page développée avec **React**, **TypeScript**, **Vite** et **Tailwind CSS**, déployée sur Vercel. L’objectif est de fournir une base moderne, performante et responsive pour créer des interfaces UI/UX attractives.
 
+Ce projet a été réalisé en suivant un tutoriel de [Pedro Machado](https://github.com/machadop1407) :  
+📺 [Build AI Landing Page with React & Tailwind CSS - Full Course](https://www.youtube.com/watch?v=b4i8l73DU6A)
+
 **English**
 
 This project is a landing page built using **React**, **TypeScript**, **Vite**, and **Tailwind CSS**, deployed on Vercel. The goal is to provide a modern, performant, and responsive base to build attractive UI/UX interfaces.
+
+This project was built by following a tutorial from [Pedro Machado](https://github.com/machadop1407):  
+📺 [Build AI Landing Page with React & Tailwind CSS - Full Course](https://www.youtube.com/watch?v=b4i8l73DU6A)
 
 ---
 
